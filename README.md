@@ -1,12 +1,15 @@
 Assignment: pet.java
 Create a Pet Class with the following instance variables:
- name (PRIVATE)
-age (PRIVATE)
-location (PRIVATE)
-type (PRIVATE)
-and two constructors. Empty all attributes.
+* name (PRIVATE)
+* age (PRIVATE)
+* location (PRIVATE)
+* type (PRIVATE)
+* and two constructors. Empty all attributes.
+
 STEP 1. Code to be able to access the following (Get Methods): name, age, and type
+
 STEP 2. Code to be able to change the following methods (Set Methods): name, age, location
+
 STEP 3. Create a Custom Class (anything you want - car, phone, holiday, etc.). REQUIREMENTS:
 * Minimum 3 private instance variables
 * An empty constructor
